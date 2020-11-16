@@ -1,11 +1,32 @@
 {
-  "posts": [
+  "players": [
     {
       "id": 1,
-      "title": "hello"
+      "Name: "mortal",
+      "Mastery":"AKM",
+      "lifestats:"27kills"
+    },
+  {
+      "id": 2,
+      "Name: "unqgamer",
+      "Mastery":"M16A4",
+      "lifestats:"17kills"
+    },{
+      "id": 3,
+      "Name: "rusher",
+      "Mastery":"M416",
+      "lifestats:"77kills"
+    },{
+      "id": 4,
+      "Name: "killer",
+      "Mastery":"UMP9",
+      "lifestats:"24kills"
+    },
+    {
+      "id": 5,
+      "Name: "king,
+      "Mastery":"AWM",
+      "lifestats:"49kills"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
