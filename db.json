@@ -2,31 +2,31 @@
   "players": [
     {
       "id": 1,
-      "Name: "mortal",
+      "Name": "mortal",
       "Mastery":"AKM",
-      "lifestats:"27kills"
+      "lifestats":"27 kills"
     },
   {
       "id": 2,
-      "Name: "unqgamer",
+      "Name": "unqgamer",
       "Mastery":"M16A4",
-      "lifestats:"17kills"
+      "lifestats":"17 kills"
     },{
       "id": 3,
-      "Name: "rusher",
+      "Name": "rusher",
       "Mastery":"M416",
-      "lifestats:"77kills"
+      "lifestats":"77 kills"
     },{
       "id": 4,
-      "Name: "killer",
+      "Name": "killer",
       "Mastery":"UMP9",
-      "lifestats:"24kills"
+      "lifestats":"24 kills"
     },
     {
       "id": 5,
-      "Name: "king,
+      "Name": "king,
       "Mastery":"AWM",
-      "lifestats:"49kills"
+      "lifestats":"49 kills"
     }
   ]
 }
