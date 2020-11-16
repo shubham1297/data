@@ -1,29 +1,29 @@
 {
   "players": [
     {
-      "id": 1,
+      
       "Name": "mortal",
       "Mastery":"AKM",
       "lifestats":"27 kills"
     },
   {
-      "id": 2,
+      
       "Name": "unqgamer",
       "Mastery":"M16A4",
       "lifestats":"17 kills"
     },{
-      "id": 3,
+      
       "Name": "rusher",
       "Mastery":"M416",
       "lifestats":"77 kills"
     },{
-      "id": 4,
+      
       "Name": "killer",
       "Mastery":"UMP9",
       "lifestats":"24 kills"
     },
     {
-      "id": 5,
+      
       "Name": "king",
       "Mastery":"AWM",
       "lifestats":"49 kills"
